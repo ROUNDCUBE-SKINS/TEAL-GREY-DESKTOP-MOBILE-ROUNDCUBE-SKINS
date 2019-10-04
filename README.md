@@ -13,7 +13,7 @@ Read the instruction to activate the RoundcubeSkins : [Instructions to Use](http
 
 ---
 
-##Mobile View##
+## Mobile View ##
 
 ![Teal Grey Mobile Roundcube Skins](images/teal_gray.png)
 
